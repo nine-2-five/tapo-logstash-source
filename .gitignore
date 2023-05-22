@@ -1,0 +1,4 @@
+/target
+.history
+*.ps1
+*.sh
